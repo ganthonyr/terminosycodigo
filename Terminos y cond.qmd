@@ -1,0 +1,62 @@
+---
+title: "Términos y condiciones de los cursos de InkaStats Academy"
+format:
+  html:
+    embed-resources: true
+css: style-terminos.css
+toc: true
+toc-title: "Contenido" 
+---
+
+## Consideraciones generales
+
+::: justify
+Los siguientes términos y condiciones aplican, sin excepción, a todos los alumnos que se inscriban a los cursos y talleres dictados por InkaStats Academy. Es responsabilidad del alumno informarse sobre los términos y condiciones del servicio y la utilización de éste. La inscripción a los cursos y talleres implica su aceptación, y por consiguiente, InkaStats no está obligado a hacer devoluciones de dinero por errores de fechas, horas, o en general por causas ajenas a su responsabilidad. InkaStats Academy se reserva el derecho de modificar estos términos a discreción.
+:::
+
+## Derechos de autor
+::: justify
+El total del contenido de los cursos y talleres, incluidos texto, gráficos, presentaciones, logos, íconos, imágenes, clips de audio y video, etc, son propiedad intelectual del/os autor/es del material y de InkaStats Academy. La entrega del material de los cursos y talleres no implica, bajo ninguna medida, una cesión de derechos de autor sino su puesta a disposición para el aprendizaje. El material compartido no puede ser copiado ni reproducido bajo ninguna modalidad sin el permiso expreso del autor.
+:::
+
+## Cancelación de inscripción
+
+::: justify
+Si el alumno desea cancelar su inscripción a un curso o taller y desea la devolución de su dinero, la cancelación deberá informarse mediante correo electrónico (*info\@inkastats.es*) con el *asunto: Solicito cancelación* o WhatsApp (*+51 977 371 554*) con un plazo mínimo de 5 días anteriores al inicio o realización del curso o taller. De no solicitar la cancelación en el plazo mencionado, se cobrará el 20% del valor del curso o taller por cargos administrativos.
+
+La NO asistencia al curso o taller por parte del alumno, sin una debida notificación previa, generará el cargo del mismo, de tal manera que InkaStats no estará obligado a ningún tipo de reembolso de dinero o abono de ese dinero para asistir a otro curso o taller.
+
+El cambio de asistente deberá informarse igualmente por escrito al mismo correo o fax citados arriba, a más tardar a las 3:00 p.m. del día hábil anterior de la realización del evento, pues de lo contrario, no se permitirá el ingreso y se entenderá prestado y ejecutado el servicio.
+:::
+
+## Quórum para el inicio de los cursos
+
+::: justify
+Cada curso o taller organizado por InkaStats Academy está sujeto a un mínimo de inscritos que varía según disposiciones internas de la organización. De no completar dicho mínimo el curso o taller será reprogramado y se notificará vía correo electrónico y/o WhatsApp a los inscritos. InkaStats Academy se reserva el derecho de reprogramar o cancelar los cursos y talleres según lo disponga. En el caso de cancelaciones o modificaciones de las fechas, los alumnos que ya pagaron podrán optar por utilizar el saldo en otro curso o taller de su interés, trasladar el saldo a un tercero, o bien solicitar el reintegro del importe abonado.
+:::
+
+## Política de protección de datos personales
+
+::: justify
+De conformidad con la [Ley Nº 29733](https://diariooficial.elperuano.pe/pdf/0036/ley-proteccion-datos-personales.pdf), "Ley de Protección de Datos Personales" aprobada por el *Decreto Supremo Nº 003-2013-JUS*, el usuario brinda su consentimiento y autoriza a InkaStats Academy el tratamiento de sus datos personales proporcionados mediante formularios de inscripción, entre otras formas. Además, el usuario tiene conocimiento de que InkaStats Academy hará uso de sus datos para los siguientes fines:
+
+-   Actualización de la base de datos de alumnos que administra InkaStats
+-   Enviar información relacionada a cursos, talleres, promociones y demás temas al titular de los datos de contacto, vía e-mail o WhatsApp
+-   Facilitar el seguimiento del proceso de inscripción, esto incluye el envío de invitaciones, recordatorios e información pertinente
+-   En general para el cumplimiento de cualquier finalidad relacionada con los servicios que InkaStats Academy ofrece (de forma anónima). 
+
+Además, estos datos se mantendrán almacenados mientras sean útiles para que InkaStats pueda prestar y ofrecer sus servicios. 
+
+InkaStats Academy no vende o distribuye los datos personales a terceros a fin de permitirles promocionar sus productos o servicios, ni a ningún otro fin. El alumno, en cualquier circunstancia, puede ejercer los derechos de acceso, rectificación, oposición o cancelación de la autorización de tratamiento de sus datos personales escribiendo a _info\@inkastats.es_.
+
+_El equipo de InkaStats Academy se compromete a ser respetuoso con la privacidad y el cuidado de los datos personales de sus alumnos y exalumnos._
+
+<br>
+<br>
+<br>
+<br>
+-- <br>
+**InkaStats Academy**<br>
+_Ciencia de datos al alcance de todos_
+
+:::

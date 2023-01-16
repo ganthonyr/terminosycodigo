@@ -1,0 +1,94 @@
+---
+title: "Código de conducta de InkaStats Academy"
+format:
+  html:
+    embed-resources: true
+css: style-codigo.css
+toc: true
+toc-title: "Contenido" 
+---
+
+
+## Consideraciones generales
+
+::: justify
+El equipo de InkaStats Academy busca proporcionar una experiencia libre de acoso para todos y todas. Desde InkaStats Academy rechazamos cualquier forma de acoso de los participantes, independientemente de la edad, género, orientación sexual, discapacidad, apariencia física, raza o religión (o la falta de ella), etc.
+
+Todos los participantes (incluyendo alumnos, docentes, auspiciadores e invitados) en nuestros cursos y talleres deben aceptar el presente código de conducta.
+
+Este documento aplica a todas las actividades organizadas por InkaStats Academy y se extiende a los intercambios específicos de información y materiales en las redes sociales, por ejemplo, publicaciones etiquetadas con nuestros alumnos, respuestas a dichas publicaciones y respuestas a la cuenta oficial de las redes sociales de InkaStats Academy (Facebook, Linkedin, Github, etc).
+
+El equipo de InkaStats Academy hará cumplir este código en todo momento y espera cooperación para garantizar un entorno seguro para todos los participantes.
+:::
+
+## Comportamiento esperado
+
+::: justify
+Todos los participantes en los cursos y talleres de InkaStats Academy acuerdan:
+
+-   Ser considerado con el lenguaje y las acciones, y respetar los límites de los demás participantes.
+-   Abstenerse de comportamientos y lenguaje degradantes, discriminatorios o acosadores. Consultar [Comportamiento inaceptable](#comportamiento-inaceptable) para obtener más detalles.
+-   Alertar a un miembro del equipo de InkaStats Academy si nota que alguien está en peligro u observa violaciones de este código de conducta, incluso si parecen intrascendentes. Consultar [¿Necesitas ayuda?](#ayuda) para obtener más detalles.
+:::
+
+## Comportamiento inaceptable {#comportamiento-inaceptable}
+
+::: justify
+El comportamiento que es inaceptable incluye, pero no se limita a:
+
+-   Acecho
+-   Intimidación deliberada
+-   Fotografía o grabación no deseada
+-   Interrupción sostenida o deliberada de conversaciones u otros eventos
+-   Uso de imágenes, comentarios o bromas sexuales o discriminatorias
+-   Comentarios ofensivos relacionados con la edad, género, orientación sexual, discapacidad, raza o religión
+-   Atención sexual no deseada, que puede incluir preguntas inapropiadas de naturaleza sexual, pedir favores sexuales o pedir repetidamente fechas o información de contacto.
+
+Si se le pide que deje de acosar, debe detenerse de inmediato, incluso si su comportamiento fue para ser amistoso o una broma, claramente no se tomó de esa manera y para la comodidad de todos los asistentes a los cursos y talleres, debe detenerse.
+
+Los asistentes que se comporten de una manera que se considere inapropiada están sujetos a los [procedimientos](#procedimientos) del presente Código de conducta.
+:::
+
+## Procedimiento para violaciones al Código de Conducta {#procedimientos}
+
+::: justify
+El equipo de InkaStats Academy se reserva el derecho de determinar la respuesta apropiada para todas las violaciones del código de conducta. Las posibles respuestas incluyen:
+
+-   Una advertencia formal para detener el comportamiento de acoso.
+-   Expulsión del curso o taller.
+-   Disposición del infractor/a a las autoridades responsables.
+
+En ninguna situación se podrá solicitar reembolsos.
+InkaStats Academy respetará las solicitudes de confidencialidad con el propósito de proteger a las víctimas de abuso. A nuestra discreción, podemos nombrar públicamente a una persona sobre quien hemos recibido quejas de acoso, o advertir privadamente a terceros acerca de ellos, si creemos que hacerlo aumentará la seguridad de nuestros alumnos o del público en general. _No nombraremos víctimas de acoso sin su consentimiento._
+:::
+
+## ¿Necesitas ayuda? {#ayuda}
+
+::: justify
+Si está siendo acosado(a), nota que alguien más está siendo acosado(a) o tiene alguna otra inquietud, ¡comuníquese con nosotros!
+
+El equipo de InkaStats Academy estará presto para tomar las medidas respectiva con el caso.
+
+Contactos:
+
+Percy Soto (percys1991@gmail.com) <br>
+Christian Vazques (cvasquezvel@gmail.com) <br>
+Anthony Romero (anthony.romeromh@gmail.com)
+
+Cualquier miembro del equipo estará encantado de ayudarle.
+:::
+
+## Copyright
+
+::: justify
+Partes del texto anterior tienen licencia CC BY-SA 4.0. 
+Este código de conducta se basó en el desarrollado para [useR! 2018](https://user2018.r-project.org/code_of_conduct/) y está sujeto a las disposiciones presentadas en las [Políticas de código de conducta](https://www.r-project.org/coc.html) oficial de [R program](https://www.r-project.org/).
+:::
+
+<br>
+<br>
+<br>
+<br>
+-- <br>
+**InkaStats Academy**<br>
+_Ciencia de datos al alcance de todos_

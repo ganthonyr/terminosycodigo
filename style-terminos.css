@@ -1,0 +1,30 @@
+/*-------- Color de fondo y fuente del cuerpo --------*/
+body {
+  background-color: white;
+  font-family: 'Tajawal', sans-serif;
+  color: black;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+/*Para justificar texto*/
+
+.justify {
+  text-align: justify !important
+}
+
+
+/*-------- Para el toc-float --------*/
+
+.sidebar nav[role=doc-toc] ul>li>a.active {
+    border-left: 1px solid #0d6efd;
+    color: #275478 !important;
+}
+.sidebar nav[role=doc-toc]>ul li a {
+    line-height: 1.1rem;
+    padding-bottom: 0.2rem;
+    padding-top: 0.2rem;
+    color: #CADDEC;
+}
